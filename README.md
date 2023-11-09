@@ -5,3 +5,4 @@
 1. ### [intersection observer api 활용 유틸](https://github.com/luke7231/hooks_or_compound_components/tree/main/intersection%20observer%20api%20%EC%9C%A0%ED%8B%B8)
 2. ### [이미지 Lazying 유틸](https://github.com/luke7231/hooks_or_compound_components/tree/main/%EC%9D%B4%EB%AF%B8%EC%A7%80%20lazy%20%EC%9C%A0%ED%8B%B8%26%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8)
 3. ### [홈 nav-tab 스크린 간 스크롤 공유 해결 코드](https://github.com/luke7231/hooks_or_compound_components/tree/main/%ED%99%88%20nav-tab%20%EA%B0%84%20%EC%8A%A4%ED%81%AC%EB%A1%A4%20%EA%B3%B5%EC%9C%A0%20%ED%95%B4%EA%B2%B0%20%EC%82%AC%EB%A1%80)
+4. ### [합성 컴포넌트 적용](https://github.com/luke7231/hooks_or_compound_components/tree/main/creator-card)
